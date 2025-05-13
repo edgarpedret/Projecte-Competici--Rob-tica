@@ -7,4 +7,4 @@ Disseny amb Sketchup del robót:
 [Robót Disseny](formula1_seguidor_lineas(1).skp)
 
 Documentació Projecte:
-[Documentació]()
+[Documentació PDF](DocumentacioRobotSeguidorLinies.pdf)
